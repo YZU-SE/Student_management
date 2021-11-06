@@ -23,7 +23,8 @@ Student Name, Student ID,  gender, Date of birth, Department,phone number .
 
 
  <img alt="Main Page" height=100% src="img/mainpage.png">
-  <img alt="python" height=100% src="img/create.png">
+ <br>
+  <img alt="create" height=100% src="img/create.png">
   <!-- <img alt="python" height=64px src="">
    <img alt="python" height=64px src="">
     <img alt="python" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
